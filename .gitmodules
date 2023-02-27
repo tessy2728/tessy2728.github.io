@@ -1,0 +1,6 @@
+[submodule "qb-cra-template-ts-react-query"]
+	path = qb-cra-template-ts-react-query
+	url = https://github.com/tessy2728/qb-cra-template-ts-react-query.git
+[submodule "qb-cra-template-ts-redux-toolkit"]
+	path = qb-cra-template-ts-redux-toolkit
+	url = https://github.com/tessy2728/qb-cra-template-ts-redux-toolkit.git
